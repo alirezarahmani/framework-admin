@@ -1,7 +1,7 @@
 {
   "name": "Forrina/Framework-admin",
   "description": "Framework Admin Panel",
-  "homepage": "https://github.com/alirezarahmani/Framework-admin",
+  "homepage": "https://github.com/alirezarahmani/framework-admin",
   "require": {
     "forrina/Framework": "dev-master",
     "opauth/google": "0.*"
